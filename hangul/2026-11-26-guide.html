@@ -3,7 +3,7 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>한글 따라쓰기</title>
+<title>한글 안내·체크표</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap" rel="stylesheet">
@@ -271,7 +271,8 @@ pages.push(page('⑦ 받침 있는 낱말 (도전!)', '아래에 받침이 붙�
     <div class="row"><div class="cells">${Array.from({length: 7}, () => cell('')).join('')}</div></div>
   </div>`, '엄마·아빠 이름도 같이 써 봐요', { cell: '23mm', rowgap: '5mm' }));
 
-document.getElementById('book').innerHTML = pages.join('');
+const SHOW = [0];   // 이 파일에서 보여 줄 장
+document.getElementById('book').innerHTML = pages.filter((_, i) => SHOW.includes(i)).join('');
 
 /* 화면이 좁으면(휴대폰) 장 전체가 보이게 축소 — 인쇄에는 영향 없음 */
 function fit() {

@@ -15,7 +15,15 @@
 ## 학습지 목록
 
 - 한글
-  - [한글 따라쓰기 기본](hangul/tracing-basic.html) — 선 긋기 → 이름 → 모음 → 자음 → 글자 만들기 → 낱말 (9장)
+  - 한글 따라쓰기 (2026-11-26)
+  - [안내·체크표 (부모님용, 한 번만 인쇄)](hangul/2026-11-26-guide.html)
+  - [① 선 긋기](hangul/2026-11-26-lines.html)
+  - [② 내 이름 쓰기 (이름 칸은 부모님이 써 주기)](hangul/2026-11-26-name.html)
+  - [③ 모음 ㅏㅓㅗㅜㅡㅣ](hangul/2026-11-26-vowels.html)
+  - [④ 자음 ㄱㄴㄷㄹㅁㅅㅇ](hangul/2026-11-26-consonants.html)
+  - [⑤ 글자 만들기 가~하 (2장)](hangul/2026-11-26-syllables.html)
+  - [⑥ 쉬운 낱말](hangul/2026-11-26-words.html)
+  - [⑦ 받침 있는 낱말](hangul/2026-11-26-batchim-words.html)
 
 ## 인쇄 방법
 
