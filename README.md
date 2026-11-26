@@ -16,14 +16,36 @@
 
 - 한글
   - 한글 따라쓰기 (2026-11-26)
-  - [안내·체크표 (부모님용, 한 번만 인쇄)](hangul/2026-11-26-guide.html)
-  - [① 선 긋기](hangul/2026-11-26-lines.html)
-  - [② 내 이름 쓰기 (이름 칸은 부모님이 써 주기)](hangul/2026-11-26-name.html)
-  - [③ 모음 ㅏㅓㅗㅜㅡㅣ](hangul/2026-11-26-vowels.html)
-  - [④ 자음 ㄱㄴㄷㄹㅁㅅㅇ](hangul/2026-11-26-consonants.html)
-  - [⑤ 글자 만들기 가~하 (2장)](hangul/2026-11-26-syllables.html)
-  - [⑥ 쉬운 낱말](hangul/2026-11-26-words.html)
-  - [⑦ 받침 있는 낱말](hangul/2026-11-26-batchim-words.html)
+    - [안내·체크표 (부모님용, 한 번만 인쇄)](hangul/2026-11-26-guide.html)
+    - [① 선 긋기](hangul/2026-11-26-lines.html)
+    - [② 내 이름 쓰기 (이름 칸은 부모님이 써 주기)](hangul/2026-11-26-name.html)
+    - [③ 모음 ㅏㅓㅗㅜㅡㅣ](hangul/2026-11-26-vowels.html)
+    - [④ 자음 ㄱㄴㄷㄹㅁㅅㅇ](hangul/2026-11-26-consonants.html)
+    - [⑤ 글자 만들기 가~하 (2장)](hangul/2026-11-26-syllables.html)
+    - [⑥ 쉬운 낱말](hangul/2026-11-26-words.html)
+    - [⑦ 받침 있는 낱말](hangul/2026-11-26-batchim-words.html)
+- 수학
+  - 수학 학습지 (2026-11-26)
+    - [안내·체크표 (부모님용)](math/2026-11-26-guide.html)
+    - [① 숫자 1~5](math/2026-11-26-numbers-1-5.html)
+    - [② 숫자 6~10](math/2026-11-26-numbers-6-10.html)
+    - [③ 수 세기 (2장: 세고 쓰기 / 숫자만큼 그리기)](math/2026-11-26-counting.html)
+    - [④ 모양 따라 그리기](math/2026-11-26-shapes.html)
+    - [⑤ 규칙 찾기](math/2026-11-26-patterns.html)
+    - [⑥ 더하기 (5까지)](math/2026-11-26-addition.html)
+- 영어
+  - 영어 학습지 (2026-11-26)
+    - [안내·체크표 (부모님용)](english/2026-11-26-guide.html)
+    - [① 알파벳 대문자 A~Z (4장)](english/2026-11-26-alphabet-upper.html)
+    - [② 알파벳 소문자 a~z (4장)](english/2026-11-26-alphabet-lower.html)
+    - [③ 쉬운 단어 (세 글자)](english/2026-11-26-words.html)
+- 놀이
+  - 놀이 학습지 (2026-11-26)
+    - [안내·체크표 (부모님용)](play/2026-11-26-guide.html)
+    - [① 미로 (2장)](play/2026-11-26-maze.html)
+    - [② 점 잇기](play/2026-11-26-dot-to-dot.html)
+    - [③ 색칠하기](play/2026-11-26-coloring.html)
+    - [④ 같은 그림 찾기](play/2026-11-26-find-same.html)
 
 ## 인쇄 방법
 
